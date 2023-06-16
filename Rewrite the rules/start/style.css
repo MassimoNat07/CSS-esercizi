@@ -1,0 +1,23 @@
+:root{
+ --black: #f6f6f6;
+ --orange:#e42626;
+ --large:500px;
+ --border:250px;
+
+}
+
+body {
+    background-color:var(--black); 
+  
+}
+
+.ball {
+    width: var(--large);
+    height: var(--large);
+    background-color: var(--orange);
+    border-radius: var(--border);
+    margin-left: 44rem;
+    margin-top:270px ;
+    
+}
+
