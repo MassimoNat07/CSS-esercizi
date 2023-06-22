@@ -1,0 +1,14 @@
+#yellow {
+    display: grid;
+    grid-template-columns: ;
+    grid-template-rows:   ;
+ 
+    width: 35%;
+}
+
+#red{
+    width: 35%;
+    float: right;
+    margin-top: -570px;
+    height: 45ch;
+}
