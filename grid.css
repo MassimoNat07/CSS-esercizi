@@ -67,3 +67,99 @@ section.finale{
 }
 
 
+
+/* main{
+    display:grid
+    grid-templete-column: repeat(4,1fr)
+    grid-templete-row(6,1fr);
+    wifht:100vw
+    height:100vh
+} */
+/* div{
+ border:1px solid black;   
+}  
+    */
+
+/* main div:first-child{ 
+grid-area:1/2/6/2;
+text-alig:end;
+justify content: center
+align item:center
+}*/
+
+/*main div:nth-child(2){
+grid-area:2/1/3/2;
+}
+
+maindiv:nth-child(3){
+grid-area:2/2/3£3;
+  
+}    
+
+main div:nth-child(4){
+grid-area: 2/3/3/4 ;
+
+}
+
+main div:nth-child(5){
+grid-area:2/4/3/5;
+}
+
+main div:nth-child(6){
+grid-area: 3/1/4/2;
+}
+
+main div:nth-child(7){
+grid-area: 3/2/4/3;
+}
+
+main div:nth-child(8){
+grid-area: 3/3/4/4;
+}
+
+main div:nth-child(9){
+grid-area: 3/4/6/4;
+}
+
+main div:nth-child(10){
+grid-area: 4/1/5/2;
+}
+
+main div:nth-child(11){
+grid-area: 4/2/5/3;
+}
+
+main div:nth-child(12){
+grid-area: 4/3/5/4;
+}
+
+main div:nth-child(13){
+grid-area: 5/1/6/2;
+}
+
+main div:nth-child(14){
+grid-area: 5/2/6/3;
+}
+
+main div:nth-child(15){
+grid-area: 5/3/6/4;
+}
+
+main div:nth-child(16){
+grid-area: 6/1/7/2;
+}
+
+main div:nth-child(17){
+grid-area: 3/1/4/2;
+}
+
+main div:nth-child(18){
+grid-area: 3/4/7/4;
+}
+
+
+
+
+
+
+*/
