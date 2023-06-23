@@ -1,14 +1,32 @@
-#yellow {
+body{
     display: grid;
-    grid-template-columns: ;
-    grid-template-rows:   ;
- 
-    width: 35%;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows:(3,1fr) ; 
+
+}
+#green{
+    grid-area: 1/1/1/4
+
+}
+
+#yellow{
+    grid-area: 2/1/2/1
+
+
+}
+
+#orange{
+    grid-area: 3/3/3/1;
+
 }
 
 #red{
-    width: 35%;
-    float: right;
-    margin-top: -570px;
-    height: 45ch;
+    grid-area: 2/2/2/2;
+
 }
+
+#blue{
+    grid-area: 4/3/2/3
+
+}
+
